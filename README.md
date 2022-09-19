@@ -1,12 +1,29 @@
 # quicksight-visuals
 
 Types of Visuals Quicksight:
-
--TreeMap
--LineGraph
--Pivot Table
--Table
-
+- Measures and dimensions in visuals
+- Display limits in visuals
+-  AutoGraph
+-  bar charts
+-  box plots
+-  combo charts
+-  custom visual content in Amazon QuickSight
+-  donut charts
+-  funnel charts
+-  gauge charts
+-  heat maps
+-  histograms
+-  KPIs
+-  line charts
+- Creating maps and geospatial charts
+-  pie charts
+-  pivot tables
+-  Sankey diagrams in Amazon QuickSight
+-  scatter plots
+-  tables as visuals
+-  tree maps
+-  waterfall charts
+-  word clouds
 
 
 Use Cases of Quicksight:
@@ -21,33 +38,7 @@ Use Cases of Quicksight:
 Minimum requirements: A date and At least 50 data points to process.
 - Gives functionality to Export, Print and email regular updates to the users
 
+Get your Sample DataSet: 
+https://quickstats.nass.usda.gov/results/1C6C94B9-9909-3C54-85E9-6136E75DF33D
 
-Visual types:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Learn More: https://docs.aws.amazon.com/quicksight/latest/user/working-with-visual-types.html
